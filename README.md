@@ -29,7 +29,7 @@ The project demonstrates the practical application of Artificial Intelligence in
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The primary objectives of MedVision AI are:
 
