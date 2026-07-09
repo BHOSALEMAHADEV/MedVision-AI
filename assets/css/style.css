@@ -1,0 +1,42 @@
+/* Main Background */
+
+.stApp{
+    background-color:#F5F7FA;
+}
+
+/* Sidebar */
+
+[data-testid="stSidebar"]{
+    background-color:#0B132B;
+}
+
+/* Sidebar Text */
+
+[data-testid="stSidebar"] *{
+    color:white;
+}
+
+/* Cards */
+
+.card{
+    background:white;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0px 2px 10px rgba(0,0,0,0.15);
+    text-align:center;
+}
+
+/* Header */
+
+.title{
+    font-size:42px;
+    color:#1565C0;
+    font-weight:bold;
+}
+
+/* Subtitle */
+
+.subtitle{
+    color:gray;
+    font-size:18px;
+}

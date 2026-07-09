@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Database (optional)
+*.db
+
+# Training outputs
+runs/
+
+# Uploaded images
+uploads/
+
+# Generated reports
+reports/
+
+# Large datasets
+dataset/
